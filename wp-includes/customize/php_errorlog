@@ -1,0 +1,16 @@
+[30-Jul-2020 21:04:18 CST6CDT] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/porscheh/public_html/hdmotorwerkss.com/wp-includes/customize/class-wp-customize-theme-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/porscheh/public_html/hdmotorwerkss.com/wp-includes/customize/class-wp-customize-theme-control.php on line 17
+[31-Jul-2020 12:32:50 CST6CDT] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/porscheh/public_html/hdmotorwerkss.com/wp-includes/customize/class-wp-customize-theme-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/porscheh/public_html/hdmotorwerkss.com/wp-includes/customize/class-wp-customize-theme-control.php on line 17
+[31-Jul-2020 12:32:55 CST6CDT] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/porscheh/public_html/hdmotorwerkss.com/wp-includes/customize/class-wp-customize-theme-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/porscheh/public_html/hdmotorwerkss.com/wp-includes/customize/class-wp-customize-theme-control.php on line 17
+[31-Jul-2020 13:06:44 CST6CDT] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/porscheh/public_html/hdmotorwerkss.com/wp-includes/customize/class-wp-widget-form-customize-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/porscheh/public_html/hdmotorwerkss.com/wp-includes/customize/class-wp-widget-form-customize-control.php on line 17

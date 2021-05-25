@@ -1,0 +1,26 @@
+/*Admin - Main*/
+
+
+#loading-animation{display:none}
+#bup-sync-results{display:none}
+
+#bup-validation-results{display:none}
+.bup-ultra-sect h3{ margin-left:0px}
+.bup-ultra-sect h3{ font-size:20px;}
+
+.bup-ultra-error{ margin-bottom:10px;}
+
+.bup-ultra-btn-red{ background: #F00 !important;  color:#FFF !important}
+
+/*users module*/
+.bup-users-membership-edition {  margin:10px 0px 10px 0px; padding-left:15px;}
+
+/**/
+
+
+.bup-top-noti-admin {  margin:10px 0px 10px 0px}
+
+.bup-frame-impo{ background:#F2F2F2}
+
+.bup-ultra-rounded {-moz-border-radius: 5px; border-radius:5px;}
+.bup-ultra-sect { background:#FFF; position:relative; clear:both; width:98%; margin-top:20px; padding:20px 10px 10px 10px; height:auto !important}

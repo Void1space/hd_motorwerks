@@ -1,0 +1,13 @@
+wp-config.php
+wp-content/*
+!wp-content/mu-plugins/
+!wp-content/plugins/
+!wp-content/themes/
+
+wp-content/plugins/wp-super-cache
+
+wp-content/themes/twenty*/
+
+*.log
+*.sql
+*.sqlite

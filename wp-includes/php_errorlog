@@ -1,0 +1,49 @@
+[03-Aug-2016 01:39:45 CST6CDT] PHP Fatal error:  Class 'Walker' not found in /home/porscheh/public_html/wp-includes/class-walker-page-dropdown.php on line 17
+[03-Aug-2016 01:39:55 CST6CDT] PHP Fatal error:  Class 'Walker' not found in /home/porscheh/public_html/wp-includes/nav-menu-template.php on line 16
+[03-Aug-2016 01:40:58 CST6CDT] PHP Fatal error:  Class 'Walker' not found in /home/porscheh/public_html/wp-includes/class-walker-page.php on line 17
+[03-Aug-2016 01:44:43 CST6CDT] PHP Fatal error:  Class 'Walker' not found in /home/porscheh/public_html/wp-includes/class-walker-comment.php on line 17
+[03-Aug-2016 01:45:03 CST6CDT] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHWPINC/widgets/class-wp-widget-pages.php' (include_path='.:/usr/local/php56/pear') in /home/porscheh/public_html/wp-includes/default-widgets.php on line 11
+[03-Aug-2016 01:45:13 CST6CDT] PHP Fatal error:  Call to undefined function add_filter() in /home/porscheh/public_html/wp-includes/default-filters.php on line 17
+[03-Aug-2016 01:51:37 CST6CDT] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/random_compat/random.php' (include_path='.:/usr/local/php56/pear') in /home/porscheh/public_html/wp-includes/compat.php on line 435
+[03-Aug-2016 01:52:17 CST6CDT] PHP Fatal error:  Call to undefined function is_admin() in /home/porscheh/public_html/wp-includes/vars.php on line 23
+[03-Aug-2016 01:54:31 CST6CDT] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/usr/local/php56/pear') in /home/porscheh/public_html/wp-includes/functions.php on line 8
+[03-Aug-2016 01:58:45 CST6CDT] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/SimplePie/Misc.php' (include_path='.:/usr/local/php56/pear') in /home/porscheh/public_html/wp-includes/class-simplepie.php on line 5
+[03-Aug-2016 01:59:17 CST6CDT] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class.wp-dependencies.php' (include_path='.:/usr/local/php56/pear') in /home/porscheh/public_html/wp-includes/script-loader.php on line 20
+[03-Aug-2016 02:00:58 CST6CDT] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/porscheh/public_html/wp-includes/rss.php on line 19
+[19-Nov-2018 12:12:49 CST6CDT] PHP Fatal error:  Call to undefined function is_robots() in /home/porscheh/public_html/hdmotorwerkss.com/wp-includes/template-loader.php on line 28
+[29-Jul-2020 16:58:52 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_main_site() in /home/porscheh/public_html/hdmotorwerkss.com/wp-includes/update.php:813
+Stack trace:
+#0 {main}
+  thrown in /home/porscheh/public_html/hdmotorwerkss.com/wp-includes/update.php on line 813
+[30-Jul-2020 20:31:49 CST6CDT] PHP Fatal error:  Uncaught Error: Class 'IXR_Server' not found in /home/porscheh/public_html/hdmotorwerkss.com/wp-includes/class-wp-xmlrpc-server.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/porscheh/public_html/hdmotorwerkss.com/wp-includes/class-wp-xmlrpc-server.php on line 23
+[30-Jul-2020 20:31:52 CST6CDT] PHP Fatal error:  Uncaught Error: Class 'IXR_Server' not found in /home/porscheh/public_html/hdmotorwerkss.com/wp-includes/class-wp-xmlrpc-server.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/porscheh/public_html/hdmotorwerkss.com/wp-includes/class-wp-xmlrpc-server.php on line 23
+[01-Aug-2020 05:18:43 CST6CDT] PHP Fatal error:  Uncaught Error: Class 'IXR_Server' not found in /home/porscheh/public_html/hdmotorwerkss.com/wp-includes/class-wp-xmlrpc-server.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/porscheh/public_html/hdmotorwerkss.com/wp-includes/class-wp-xmlrpc-server.php on line 23
+[02-Sep-2020 20:27:37 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/porscheh/public_html/hdmotorwerkss.com/wp-includes/feed-atom-comments.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/porscheh/public_html/hdmotorwerkss.com/wp-includes/feed-atom-comments.php on line 8
+[02-Sep-2020 23:24:39 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_main_site() in /home/porscheh/public_html/hdmotorwerkss.com/wp-includes/update.php:873
+Stack trace:
+#0 {main}
+  thrown in /home/porscheh/public_html/hdmotorwerkss.com/wp-includes/update.php on line 873
+[03-Sep-2020 02:19:46 CST6CDT] PHP Fatal error:  Uncaught Error: Class 'IXR_Server' not found in /home/porscheh/public_html/hdmotorwerkss.com/wp-includes/class-wp-xmlrpc-server.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/porscheh/public_html/hdmotorwerkss.com/wp-includes/class-wp-xmlrpc-server.php on line 23
+[03-Sep-2020 02:19:49 CST6CDT] PHP Fatal error:  Uncaught Error: Class 'IXR_Server' not found in /home/porscheh/public_html/hdmotorwerkss.com/wp-includes/class-wp-xmlrpc-server.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/porscheh/public_html/hdmotorwerkss.com/wp-includes/class-wp-xmlrpc-server.php on line 23
+[23-Dec-2020 14:56:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/customer/www/hdmotorwerks.com/public_html/wp-includes/class-oembed.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/hdmotorwerks.com/public_html/wp-includes/class-oembed.php on line 12
